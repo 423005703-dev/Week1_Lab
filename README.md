@@ -1,3 +1,3 @@
 # Week1 Lab
 My first lab project
-Author: Paul Henry Reyes
+Author: Marcia Mikaela Villamor
